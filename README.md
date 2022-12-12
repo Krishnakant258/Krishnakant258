@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Krishnakant258
+- 👀 I’m interested in Data Sacience
+- 🌱 I’m currently learning SQL And tableau
+- 📫  I'm available on Skrishan99@yahoo.co
